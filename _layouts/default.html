@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+{%- include head.html -%}
+
+<body class="body-wrapper">
+    <!-- preloader -->
+    {%- include preloader.html -%}
+
+    <!-- welcome content start from here -->
+
+    <!-- header end -->
+    {%- include header.html -%}
+
+    <!-- mobile menu - responsive menu  -->
+    {%- include header_mobile.html -%}
+    <!-- header end -->
+
+    <div class="header-gutter home"></div>
+    <!-- header end -->
+    {{ content }}
+    <!-- footer start -->
+    {%- include footer.html -%}
+    <!-- footer end -->
+
+    {%- include scripts.html -%}
+</body>
+
+</html>
