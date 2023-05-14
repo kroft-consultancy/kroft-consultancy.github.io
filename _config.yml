@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kroft consultancy
-email: support@kroft-consultancy.com
-phone: '(+212)-226-3126'
+title: Kroft Consultancy
+email: support@kroftconsultancy.nl
+phone: '+31 (0)85 060 1620'
 logo: 'assets/img/logo.png'
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Kroft Consultancy B.V., a trusted provider of Mendix Consultancy and Cardano Solutions. 
+  We are dedicated to delivering innovative and reliable solutions to help your business thrive. 
+  Contact us to explore how we can assist you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
